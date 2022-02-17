@@ -638,4 +638,4 @@ Publish the website in the given URL.
 ### ABOUT US:
 ![output](2.JPG)
 ## Result:
-
+A website has been designed using bootstrap framework.
